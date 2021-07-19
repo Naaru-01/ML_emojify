@@ -1,6 +1,6 @@
 # Emojify
+![image](https://user-images.githubusercontent.com/68388179/126160562-ac977304-ac34-48fc-8d61-7b519e7e82ef.png)
 
-![image](https://user-images.githubusercontent.com/41102775/61476404-9d4b4100-a9aa-11e9-81f4-77308961949a.png)
 
 **Emojis** are the incredible way of expressing yourself.Therefore, our machines should also be aware of the appropriate emoji to be used at the right time. Thus, this project does the same.  
 In this project, the model is predicting emoji's according to a given sentence using Deep Learning Models.
