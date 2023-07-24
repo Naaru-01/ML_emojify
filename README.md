@@ -11,7 +11,7 @@ Text data consiting of different sentences along with the labels. Labels represe
 -I have used data from **data** directory for training and test perspective.
 
 
-# Algorithm's Used
+# Algorithm Used
 -LSTM
 
 **Emojify.ipynb**   
